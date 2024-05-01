@@ -21,6 +21,7 @@ This is a simple React app that allows users to manage a list of albums. Users c
 To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine:
+   gh repo clone rishabh200012/albums-app-React
 
-```bash
-git clone https://github.com/your-username/react-albums-app.git
+2. use npm i for instaliing node modules 
+3. npm start to run project.
